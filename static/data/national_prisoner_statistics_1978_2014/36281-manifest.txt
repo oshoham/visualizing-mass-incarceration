@@ -1,0 +1,53 @@
+File Manifest for ICPSR 36281
+
+United States Department of Justice. Office of Justice Programs. Bureau of
+Justice Statistics. National Prisoner Statistics, 1978-2014. ICPSR36281-v1.
+Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2015-10-09. http://doi.org/10.3886/ICPSR36281.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36281-related_literature.txt        -       -         -       2016-02-08  -
+
+    36281-manifest.txt                  -       -         -       2016-02-09  -
+
+
+DS0001 National Prisoner Statistics, 1978-2014
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36281-0001-Codebook.pdf             -       -         -       2015-10-09  36481dafce8abde9a7f8cf20db9556b1
+
+    36281-0001-Data.dta                 -       1,998     201     2015-10-09  6f27bc00acb0baace45bed643f32769c
+
+    36281-0001-Data.rda                 -       1,998     201     2015-10-09  10968f597fd99b35ef6679d94a1226e8
+
+    36281-0001-Data.sav                 -       1,998     201     2015-10-09  177b7715478bfc9856e8b2633d2ab79a
+
+    36281-0001-Data.stc                 -       1,998     201     2015-10-09  885e4c80532ad533e0260603392333d1
+
+    36281-0001-Data.tsv                 -       1,998     201     2015-10-09  fdd726f74062611ae8fe2d08fd3bcd37
+
+    36281-0001-Data.txt                 826     1,998     201     2015-10-09  5ae2b1d19dd5a37913e5589c661f0033
+
+    36281-0001-Documentation-Notes.zip  -       -         -       2015-10-09  98c1ffd778b0a4ae777f96b8a8aedbcf
+
+    36281-0001-Documentation-crosswalk_1978-2014.xlsx -       -         -       2015-10-09  bb2ed1dc8a0cd2b0a8f8cc00261f60cc
+
+    36281-0001-Setup.dct                -       -         -       2015-10-09  b25daf52ad4c8eb7afe6902ad7f2b28c
+
+    36281-0001-Setup.do                 -       -         -       2015-10-09  b8ae05d1d53fc196809d386d87acac5f
+
+    36281-0001-Setup.sas                -       -         -       2015-10-09  a90ce31bde09cb4335edb836fcc12de5
+
+    36281-0001-Setup.sps                -       -         -       2015-10-09  ddd84de59702cfee46d5c43174f18d68
+
+    36281-0001-Supplemental_syntax.do   -       -         -       2015-10-09  6d1c0227c94d0c4d6015b2ffd17238ee
+
+    36281-0001-Supplemental_syntax.sas  -       -         -       2015-10-09  08def40a9db638ba21b42b5be3e8dfbe
+

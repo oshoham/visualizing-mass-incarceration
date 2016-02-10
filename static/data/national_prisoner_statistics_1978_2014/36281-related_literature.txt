@@ -1,0 +1,39 @@
+Bibliography
+National Prisoner Statistics, 1978-2014
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36281. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. This list represents all items known
+to ICPSR as of 2016-02-09.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Eisen, Lauren-Brooke; Chettiar, Inimai, "The Reverse Mass Incarceration
+Act." New York, NY: New York University School of Law, Brennan Center for
+Justice, Oct 2015.
+Full text: https://www.brennancenter.org/publication/reverse-mass-incarceration-act
+
+2. Kaeble, Danielle; Glaze, Lauren; Tsoutis, Anastasios; Minton, Todd,
+"Correctional Populations in the United States, 2014." Bulletin. NCJ
+249513, Washington, DC: U.S. Department of Justice, Office of Justice
+Programs, Bureau of Justice Statistics, Dec 29, 2015.
+Abstract: http://www.bjs.gov/content/pub/pdf/cpus14.pdf
+Full text: http://www.bjs.gov/content/pub/ascii/cpus14.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/cpus14.pdf
+Presents statistics on persons supervised by adult correctional systems in
+the United States at yearend 2014, including offenders supervised in the
+community on probation or parole and those incarcerated in state or federal
+prison or local jail. The report describes the size and change in the total
+correctional population during 2014. It details the downward trend in the
+correctional population and correctional supervision rate since 2007. It
+also examines the impact of changes in the community supervision and
+incarcerated populations on the total correctional population in recent
+years. Findings cover the variation in the size and composition of the
+total correctional population by jurisdiction at yearend 2014. Appendix
+tables provide statistics on other correctional populations and
+jurisdiction-level estimates of the total correctional population by
+correctional status and sex for select years.

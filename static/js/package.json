@@ -1,0 +1,24 @@
+{
+  "name": "visualizing-mass-incarceration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oshoham <oren.avraham.shoham@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^3.5.14",
+    "d3-queue": "^2.0.2",
+    "d3-tip": "^0.6.7",
+    "topojson": "^1.6.22"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.5.0",
+    "babelify": "^7.2.0",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^4.0.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

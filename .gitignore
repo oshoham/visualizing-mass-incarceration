@@ -1,0 +1,4 @@
+*.DS_Store
+static/js/node_modules/
+static/js/dist/
+4090846/
