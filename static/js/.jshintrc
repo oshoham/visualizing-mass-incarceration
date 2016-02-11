@@ -1,0 +1,12 @@
+{
+  "undef": true,
+  "predef": [
+    "window",
+    "document",
+    "console",
+    "module",
+    "global",
+    "require"
+  ],
+  "esnext": true
+}

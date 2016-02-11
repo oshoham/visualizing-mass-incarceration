@@ -32,6 +32,35 @@
         stroke-linejoin: round;
         stroke-linecap: round;
       }
+
+      .state:hover {
+        fill-opacity:0.5;
+      }
+
+      .state--q0-9 { fill: #fff7ec; }
+      .state--q1-9 { fill: #fee8c8; }
+      .state--q2-9 { fill: #fdd49e; }
+      .state--q3-9 { fill: #fdbb84; }
+      .state--q4-9 { fill: #fc8d59; }
+      .state--q5-9 { fill: #ef6548; }
+      .state--q6-9 { fill: #d7301f; }
+      .state--q7-9 { fill: #b30000; }
+      .state--q8-9 { fill: #7f0000; }
+
+      .year {
+        font: 500 196px "Helvetica Neue";
+        fill: #ddd;
+      }
+
+      .year.active {
+        fill: #aaa;
+      }
+
+      .overlay {
+        fill: none;
+        pointer-events: all;
+        cursor: ew-resize;
+      }
     </style>
 
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
